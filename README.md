@@ -4,7 +4,7 @@ Pet-проект приложение для просмотра погоды с 
 <table>
     <tr>
         <td>
-            <img src=https://ie.wampi.ru/2022/06/12/ezgif.com-gif-maker.gif width="400"/>
+            <img src=https://ie.wampi.ru/2022/06/12/ezgif.com-gif-maker.gif width="256"/>
         </td>
     </tr>
     <tr>
