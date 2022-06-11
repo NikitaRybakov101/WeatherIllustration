@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="LightTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">#9C9C9C</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <!-- Customize your theme here. -->
+        <item name="toolbarColor">#FFFFFF</item>
+        <item name="bottomNavColor">#FFFFFF</item>
+        <item name="bek">#F8F8F8</item>
+        <item name="lightCard">#CDE5EA</item>
+        <item name="lightCard_2">#FFFFFF</item>
+        <item name="switchColor">#AAC3C8</item>
+        <item name="withCardColor">#FFFFFF</item>
+        <item name="deleteAll">#FFECEC</item>
+        <item name="search">#EBFFFB</item>
+        <item name="cardDetailsDB">#F3F3F3</item>
+        <item name="cardDetailsDB_2">#FFFFFF</item>
+        <item name="strokeColor">#C0C1C3</item>
+        <item name="strokeColor_2">#E3E3E3</item>
+
+    </style>
+</resources>

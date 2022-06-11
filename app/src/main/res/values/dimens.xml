@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dimensDetails">24dp</dimen>
+    <dimen name="heightGraph">200dp</dimen>
+
+</resources>

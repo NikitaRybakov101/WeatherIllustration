@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="colors">
+        <attr name="toolbarColor" format="color"/>
+        <attr name="bottomNavColor" format="color"/>
+        <attr name="bek" format="color"/>
+        <attr name="lightCard" format="color"/>
+        <attr name="lightCard_2" format="color"/>
+        <attr name="switchColor" format="color"/>
+        <attr name="withCardColor" format="color"/>
+        <attr name="deleteAll" format="color"/>
+        <attr name="search" format="color"/>
+        <attr name="cardDetailsDB" format="color"/>
+        <attr name="cardDetailsDB_2" format="color"/>
+        <attr name="strokeColor" format="color"/>
+        <attr name="strokeColor_2" format="color"/>
+    </declare-styleable>
+
+</resources>

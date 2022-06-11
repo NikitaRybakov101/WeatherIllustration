@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeWeather"
+        android:title="@string/bottom_home"
+        android:icon="@drawable/bottom_home_moon" />
+    <item
+        android:id="@+id/weekWeather"
+        android:title="@string/bottom_week"
+        android:icon="@drawable/bottom_icon_week" />
+    <item
+        android:id="@+id/favoriteWeather"
+        android:title="@string/bottom_favorite"
+        android:icon="@drawable/bottom_favorite" />
+    <item
+        android:id="@+id/toolbar_setting"
+        android:title="@string/toolbar_setting"
+        android:icon="@drawable/ic_baseline_settings_24" />
+    <item
+        android:id="@+id/info"
+        android:title="@string/info"
+        android:icon="@drawable/ic_baseline_info_24" />
+</menu>

@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Weather Illustration</string>
+
+    <string name="bottom_home">Weather</string>
+    <string name="bottom_week">Week</string>
+    <string name="bottom_favorite">Favorite</string>
+
+    <string name="toolbar_search">Search</string>
+    <string name="toolbar_setting">Setting</string>
+    <string name="toolbar_info">Info</string>
+
+    <string name="weather_illustration">Weather Illustration</string>
+    <string name="openweatherapi">OpenWeatherApi</string>
+    <string name="update_weather">update weather</string>
+    <string name="weekly_weather_forecast">Weekly weather forecast</string>
+    <string name="info">info</string>
+    <string name="infoHeader">Info</string>
+    <string name="api_openapiweather">Приложение для просмотра погоды с использованием api OpenApiWeather</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="add_weather">[+add Weather]</string>
+    <string name="gps">Автоопределние положения GPS</string>
+    <string name="auto_weather">Автообновление погоды</string>
+    <string name="type_c">Тип градусов</string>
+    <string name="temp">temp С°</string>
+    <string name="temp_f">temp F°</string>
+    <string name="Dark_theme">Ночная тема</string>
+    <string name="test">Тест</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="weatherillustration">О приложении WeatherIllustration</string>
+    <string name="options">Настройки</string>
+
+    <string name="snow">Snow</string>
+    <string name="rain">Rain</string>
+    <string name="clear">Clear</string>
+
+    <string name="update">update</string>
+
+    <string name="city">Выбрать другой город</string>
+    <string name="search_city">Поиск города</string>
+    <string name="apply">Apply</string>
+
+    <string name="mor">Утро</string>
+    <string name="day_ru">День</string>
+    <string name="eve_ru">Вечер</string>
+    <string name="night_ru">Ночь</string>
+
+    <string name="error">Network ERROR</string>
+    <string name="humidity">Влажность\u0020</string>
+    <string name="pressure">Давление\u0020</string>
+    <string name="feels_like">Ощущается как\u0020</string>
+    <string name="wind">Ветер\u0020</string>
+    <string name="real_weather">Реальная погода</string>
+    <string name="test_mode">Test mode</string>
+
+    <string name="seasons">Января,Февраля,Марта,Апреля,Майя,Июля,Июня,Августа,Сентября,Октября,Ноября,Декабря</string>
+    <string name="seasonsHeader">Январь,Февраль,Март,Апрель,Май,Июль,Июнь,Август,Сентябрь,Октябрь,Ноябрь,Декабрь</string>
+
+    <string name="persent">%</string>
+    <string name="press">кПа</string>
+    <string name="speed">м/с</string>
+    <string name="gpsButton">GPS</string>
+    <string name="error_ru">Ошибка ввода</string>
+    <string name="weather_heder_anim">Weather</string>
+    <string name="illustration_header">Illustration</string>
+    <string name="added_weather">Added Weather</string>
+    <string name="add_day">[ +Add day ]</string>
+    <string name="delete_all">DELETE ALL</string>
+    <string name="delete">delete</string>
+    <string name="addNotesWeather">Добавлена запись погоды</string>
+    <string name="calendar">CALENDAR</string>
+    <string name="cityName">Название города</string>
+    <string name="yyyy_mm_dd">YYYY-MM-DD</string>
+    <string name="_search">APPLY</string>
+    <string name="cancel">CANCEL</string>
+    <string name="alert_dialog_header">Вы действительно хотите удалить все данные?</string>
+    <string name="no_permissions">Нет разрешения</string>
+    <string name="positions">\"Ваше положение \"</string>
+    <string name="search">SEARCH</string>
+    <string name="no">нет</string>
+    <string name="yes">да</string>
+
+</resources>

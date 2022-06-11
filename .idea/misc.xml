@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/ic_baseline_expand_more_24.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/ic_baseline_loop_24.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/ic_baseline_place_24.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/ic_hamburger_menu_bottom_bar.xml" value="0.352" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/splash_screen.xml" value="0.476" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/drawable/weather_image.xml" value="0.5435" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/card_view_weather_day.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/container_navigation_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/details_week_fragment.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/drop_list_sity.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/favor_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/fragment_city.xml" value="0.33" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/fragment_towns.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/header_layout.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/info_fragment.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/main_weather_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/menu_item.xml" value="0.3691123188405797" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/options_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/search_fragment.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/test.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/view_db_recycler.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/view_recycler.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/layout/week_weather_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/menu/menu_nav.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherIllustration/app/src/main/res/menu/menu_toolbar.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.590625" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic__44.xml" value="0.590625" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_baseline_loop_24.xml" value="0.403125" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_baseline_place_24.xml" value="0.403125" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.403125" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.590625" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_bg.xml" value="0.590625" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_hamburger_menu_bottom_bar.xml" value="0.403125" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_paint.xml" value="0.590625" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/drawable/ic_paint_weather.xml" value="0.590625" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/layout/card_view_weather_day.xml" value="0.5" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/layout/container_navigation_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/layout/main_weather_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/Nikita/AndroidStudioProjects/WeatherPaint/app/src/main/res/menu/menu_toolbar.xml" value="0.5744791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
