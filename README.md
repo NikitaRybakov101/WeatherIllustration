@@ -24,4 +24,7 @@ Pet-проект приложение для просмотра погоды с 
             Список добавленной погоды
         </td>
     </tr>
-</table>                                                                                       
+</table>        
+
+
+Ссылка для скачивания приложения [WeatherIllustration.apk Google Диск](https://drive.google.com/file/d/1Ik56UkEuHj9uW3gPdCUhTEh49wSaZpl3/view?usp=sharing)
